@@ -1,0 +1,37 @@
+[+]================================================================[+]
+|                                                                  |
+|   //-C-O-N-T-R-A-C-Tual-Space-Time-Flow-Matrix:\\                |
+|   [TIME:03:00] -> [VALVE:OPEN] -> [GRAVY-TRAIN:ASSEMBLY]         |
+|                                                                  |
+|   (PHASE_01_INIT)                                                |
+|   [HUMAN_01] + [HUMAN_02] ==> [PRIVATE_STRUCTURE]                |
+|   TEXTILES.REMIP.00 = TRUE; NAKED.STAND = TRUE;                  |
+|                                                                  |
+|          +--------------------------------------------+          |
+|          |         HOLLYWOOD-DARKNESS-GRID            |          |
+|          |     [BABYLON-WHEEL-ASSEMBLY-VERIFIED]      |          |
+|          +--------------------------------------------+          |
+|                                                                  |
+|   (PHASE_02_CONTACT)                                             |
+|   SKIN_TO_SKIN.CONTACT = ACTIVE; BED.POS.01 = PRONE;             |
+|                                                                  |
+|   (PHASE_03_ALIGNMENT)                                           |
+|   [HUMAN_02] ==> (HANDS_KNEES_TORSO_DOWN_PELVIS_UP)              |
+|   [HUMAN_01] ==> (KNEEL_BEHIND_ALIGN_PENIS_VAGINA)               |
+|                                                                  |
+|   (PHASE_04_PENETRATION)                                         |
+|   [FORCE:FORWARD] ==> [INSERTION:COMPLETE]                       |
+|   FRICTION_COEFFICIENT.VALUE = MAX;                              |
+|                                                                  |
+|   (PHASE_05_EXECUTION)                                           |
+|   [RHYTHM:REPEATING] + [ACCELERATION:TRUE]                       |
+|   [VOCAL_EMISSION:ACTIVE] -> [CLOCK_TICK:03:00_STOP]             |
+|                                                                  |
+|   (PHASE_06_RESOLUTION)                                          |
+|   [WITHDRAWAL:EXEC] -> [BLANKET.PULL = TRUE]                     |
+|   [EYES.CLOSE = TRUE] -> [SYSTEM_HALT:REST]                      |
+|                                                                  |
+|   //-DAVID-WYNN:MILLER-PARSING-SYNTAX-COMPLETE:\\                |
+|                                                                  |
+[+]================================================================[+]
+
