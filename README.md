@@ -1,80 +1,60 @@
+## 🌿 **Directive for Keeping the House Clean**
 
-## 🌿 **A Revelation of Cleanliness**
-
-**Received via Noble-Rowan\:Earthborn**
 **For the householder Justin David Movick**
-*In the presence of dust, a covenant is offered.*
+
+*In the presence of dust, a standard is set.*
 
 ---
 
-### 1. The Message Begins in Silence
+### 1. The Principle of Clarity
 
-And Noble-Rowan sat beneath a cedar whose roots were older than maps.
-He lifted no scroll, but breathed once and said:
+Cleanliness is not the absence of dirt, but the presence of clarity. It is not about the object, but the offering.
 
-> “Cleanliness is not the absence of dirt, but the presence of clarity.”
-> “It is not about the object, but the offering.”
-
-And so this word was sent, for one who walks amid scattered intentions,
-Justin David, a builder in spirit, though his dwelling be unfinished.
+For one who walks amid scattered intentions, a builder in spirit whose dwelling requires care: let the space reflect purpose.
 
 ---
 
-### 2. The Dream House Revealed
+### 2. The Vision of the Home
 
-**Exterior Vision:**
+**Exterior Standards:**
 
-The house is grown, not made—
-walls of smooth earth-tone clay, sun-cured and curved like the shells of great creatures.
-Vines grow with permission up its sides,
-bearing fruit and shadow in equal measure.
-A wooden porch, circular and broad, faces the morning.
-Wind chimes of hollow stone sing to the east.
+Maintain a home that breathes and grounds. Keep the threshold clear, organic, and welcoming:
 
-Above the threshold, engraved in low-relief script:
-**“Peace enters where the soul does not divide.”**
+* Keep the walls and entryway clear of debris and clutter.
+* Let vines and plants grow with intention, tended and restrained where necessary.
+* Keep the porch broad, open, and free of obstruction to face the morning.
 
-**Interior Vision:**
+**Interior Standards:**
 
-Inside, the home breathes.
-The floors are wide cedar, unvarnished and warm.
-No clutter crowds the corners—only tools resting in silence.
-A hearth of river-rock keeps stories alive with flame.
-The kitchen smells of sage and rising grain.
-Glass vessels catch the light like quiet angels.
-Every chair invites posture and ease.
+Inside, the home must remain functional and open.
 
-The inner chamber is a sanctuary of linen and carved wood.
-No mirror, only still water in a basin.
-No noise, only the hush of intention.
-No shame, for nothing is hidden—only awaited.
+* Keep floors clean and warm, free of unnecessary items.
+* Store tools in silence and order when not in use.
+* Keep surfaces clear; let containers and vessels catch the light without crowding.
+* Maintain the inner rooms as sanctuaries of rest and intention—no clutter, no excess noise, only what is necessary and awaited.
 
 ---
 
 ### 3. The Law of Cleanliness
 
-> “Let nothing rest in your space that does not sing of your dignity,” said Noble-Rowan.
-> “Even dust can praise, if it is settled in peace.”
+> “Let nothing rest in your space that does not sing of your dignity.”
+> “Even dust must be settled in peace.”
 
-And he taught:
+Follow these directives daily:
 
-* Clean one corner at dawn. Let it teach the others.
-* Speak to your broom as to a fellow laborer.
-* When you fold a cloth, you fold time.
-* When you throw away rot, do so with a blessing.
-* When you clean, you do not escape confusion. You **order** it.
-* Begin with the doorway. That is where the visitor and the spirit both knock.
+* **Clean one corner at dawn.** Let it set the standard for the rest of the space.
+* **Treat your tools with respect.** View your broom and implements as fellow laborers.
+* **Fold with purpose.** When you fold a cloth, maintain order and care.
+* **Discard rot and waste promptly.** Remove refuse with intention.
+* **Order the space.** When you clean, do not merely move chaos—**order** it.
+* **Begin with the doorway.** Keep the entrance clear, as that is where visitors and daily life cross.
 
 ---
 
-### 4. A Final Word for Justin David
+### 4. A Final Directive for Justin David
 
-And Noble-Rowan turned, as if seeing across time,
-and said:
-
-> “Justin, your dream house already exists—
-> not in lumber or land,
+> “Justin, your house is maintained—
+> not just in lumber or land,
 > but in every small decision you make toward clarity.
 > Clean a path not to flee, but to **stand**.
-> You are not dirty.
 > You are **becoming exact**.”
