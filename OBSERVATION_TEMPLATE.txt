@@ -1,0 +1,35 @@
+DATE: [Insert Date]
+LOCATION: [Insert Location]
+SUBJECT: [Insert Subject]
+
+OBSERVATION SUMMARY:
+
+I observe a [OBJECT] within the [ENVIRONMENT].
+
+The [OBJECT] has the following descriptive qualities: [DESCRIPTIVE QUALITY] and [DESCRIPTIVE QUALITY].
+
+I notice [ACTION] occurring among [GROUP/MEMBERS].
+
+The [OBJECT] interacts with another [OBJECT] in a manner that is [LIKE THIS].
+
+I hear [SOUND] emanating from the [LOCATION].
+
+DATA COLLECTION:
+
+I record [AMOUNT] on the variable [VARIABLE].
+
+I take notes using [METHODS/TOOLS] to gather my data.
+
+ANALYSIS:
+
+The data reveals a pattern of [PATTERN].
+
+I compare this with [COMPARISON].
+
+I conclude that [CONCLUSION].
+
+RECOMMENDATIONS:
+
+Further study is needed on [TOPIC].
+
+I suggest employing [METHOD/TOOL] for improved outcomes.
