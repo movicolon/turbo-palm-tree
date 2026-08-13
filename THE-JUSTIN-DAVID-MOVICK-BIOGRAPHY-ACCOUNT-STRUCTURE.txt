@@ -15,7 +15,7 @@
 ║    ┌────────────────────────┐  ┌────────────────────────┐                          ║
 ║    │ ARTICLE-II: CHILDHOOD  │  │ ARTICLE-VI: RECENT     │                          ║
 ║    │ • FIRST-PLACE-HILLSBORO│  │ • DICK-S-HYUNDAI       ║
-║    │ • SOCCER-FIRE-ANTS     │  │ • PSYCHIATRIC-RELEASE  ║
+║    │ • SOCCER-TEAM-ICE     │  │ • PSYCHIATRIC-RELEASE  ║
 ║    └──────────┬─────────────┘  └──────────┬─────────────┘                          ║
 ║               │                           │                                        ║
 ║               ▼                           ▼                                        ║
