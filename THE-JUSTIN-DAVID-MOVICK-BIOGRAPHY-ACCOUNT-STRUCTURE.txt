@@ -1,0 +1,41 @@
+```
+╔════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                    ║
+║    ■ EXPLORE ■ DISCOVER ■ CREATE ■                                                 ║
+║                                                                                    ║
+║    [ THE-JUSTIN-DAVID-MOVICK-BIOGRAPHY-ACCOUNT-STRUCTURE ]                         ║
+║                                                                                    ║
+║    ┌────────────────────────┐  ┌────────────────────────┐                          ║
+║    │ ARTICLE-I: ORIGINS     │  │ ARTICLE-V: WILDERNESS  │                          ║
+║    │ • PORTLAND-OREGON      │  │ • THE-WALKING-JOURNEYS │                          ║
+║    │ • 1989-SEPTEMBER-02    │  │ • WHEELBARROW-AND-CINDER║                          ║
+║    └──────────┬─────────────┘  └──────────┬─────────────┘                          ║
+║               │                           │                                        ║
+║               ▼                           ▼                                        ║
+║    ┌────────────────────────┐  ┌────────────────────────┐                          ║
+║    │ ARTICLE-II: CHILDHOOD  │  │ ARTICLE-VI: RECENT     │                          ║
+║    │ • FIRST-PLACE-HILLSBORO│  │ • DICK-S-HYUNDAI       ║
+║    │ • SOCCER-FIRE-ANTS     │  │ • PSYCHIATRIC-RELEASE  ║
+║    └──────────┬─────────────┘  └──────────┬─────────────┘                          ║
+║               │                           │                                        ║
+║               ▼                           ▼                                        ║
+║    ┌────────────────────────┐  ┌────────────────────────┐                          ║
+║    │ ARTICLE-III: ADOLESC.  │  │ ARTICLE-VII: BELIEF    │                          ║
+║    │ • FARMINGTON-VIEW      │  │ • SOVEREIGN-LIFE       │                          ║
+║    │ • BAND-FORMATION       │  │ • BILL-OF-INTENTION    │                          ║
+║    └──────────┬─────────────┘  └──────────┬─────────────┘                          ║
+║               │                           │                                        ║
+║               └─────────────┬─────────────┘                                        ║
+║                             │                                                      ║
+║                             ▼                                                      ║
+║              ┌─────────────────────────────┐                                       ║
+║              │ ARTICLE-IV: MISSION-DIVORCE │                                       ║
+║              │ • SONORA-MEXICO-2008        │                                       ║
+║              │ • LONG-ISLAND-JEWISH-HOSP.  │                                       ║
+║              └─────────────────────────────┘                                       ║
+║                                                                                    ║
+║    ■ BY-DAVID-WYNN-MILLER-STYLE-OPERATING-STRUCTURE ■                              ║
+║                                                                                    ║
+╚════════════════════════════════════════════════════════════════════════════════════╝
+
+```
